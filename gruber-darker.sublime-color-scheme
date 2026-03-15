@@ -140,6 +140,11 @@
             "foreground": "var(gruber-darker-quartz)"
         },
         {
+            "scope": "storage.modifier",
+            "foreground": "var(gruber-darker-yellow)",
+            "font_style": "bold"
+        },
+        {
             "scope": "variable.other",
             "foreground": "var(gruber-darker-fg)"
         },
