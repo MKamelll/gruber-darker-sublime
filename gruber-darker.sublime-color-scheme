@@ -149,10 +149,27 @@
             "foreground": "var(gruber-darker-fg)"
         },
         {
+            "scope": "source.rust meta.function.rust meta.block.rust meta.path.rust storage.type.rust",
+            "foreground": "var(gruber-darker-quartz)",
+            "font_style": "none"
+        },
+        {
             "scope": "storage.type",
             "foreground": "var(gruber-darker-yellow)",
             "font_style": "bold"
+        },
+        {
+            "scope": "support.macro.rust",
+            "foreground": "var(gruber-darker-yellow)"
+        },
+        {
+            "scope": "source.rust meta.path.rust variable.other.rust",
+            "foreground": "var(gruber-darker-quartz)"
+        },
+        {
+            "scope": "source.rust meta.path.rust storage.type.rust",
+            "foreground": "var(gruber-darker-quartz)",
+            "font_style": "none"
         }
     ]
 }
-
