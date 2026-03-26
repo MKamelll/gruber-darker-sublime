@@ -167,7 +167,7 @@
             "foreground": "var(gruber-darker-quartz)"
         },
         {
-            "scope": "source.rust meta.path.rust storage.type.rust",
+            "scope": "source.rust meta.path.rust storage.type.rust | source.rust meta.function.rust meta.function.return-type.rust storage.type.rust",
             "foreground": "var(gruber-darker-quartz)",
             "font_style": "none"
         }
